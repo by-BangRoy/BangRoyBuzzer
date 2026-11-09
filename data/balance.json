@@ -1,0 +1,40 @@
+{
+  "balance": 2896603,
+  "currency": "IDR",
+  "userName": "Bang Roy Official",
+  "userRole": "Master Reseller & VIP Agency",
+  "mutasi": [
+    {
+      "id": "DEP-988837",
+      "date": "2026-11-09T03:13:08.837Z",
+      "type": "deposit",
+      "amount": 50853,
+      "description": "Deposit QRIS Realtime (Termasuk kode unik 853)",
+      "balanceAfter": 2896603
+    },
+    {
+      "id": "MUT-BR-70831",
+      "date": "2026-11-09T03:13:04.505Z",
+      "type": "order",
+      "amount": -4250,
+      "description": "Order #BR-70831: Instagram Likes Post / Reels Indonesia Real Buzzer [Instant 0-5m] (500 unit)",
+      "balanceAfter": 2845750
+    },
+    {
+      "id": "MUT-901",
+      "date": "2026-11-07T03:12:52.989Z",
+      "type": "deposit",
+      "amount": 3000000,
+      "description": "Deposit Otomatis QRIS Real-time - BCA Instant",
+      "balanceAfter": 3000000
+    },
+    {
+      "id": "MUT-902",
+      "date": "2026-11-08T09:12:52.989Z",
+      "type": "order",
+      "amount": -150000,
+      "description": "Order #BR-10492: TikTok FYP Views 300K",
+      "balanceAfter": 2850000
+    }
+  ]
+}

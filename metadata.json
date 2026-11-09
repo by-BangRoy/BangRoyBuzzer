@@ -1,0 +1,6 @@
+{
+  "name": "BangRoy Buzzer",
+  "description": "Platform SMM & Buzzer Panel Indonesia terintegrasi server buzzerpanel.id untuk layanan media sosial, trending, engagement, dan reseller otomatis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
